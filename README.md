@@ -1,1 +1,3 @@
 # Cryptocurrencies
+## Analysis Overview
+In this analysis , we ware assisting the Accountability Accounting Investment Bank makes some sense of the cryptocurrency market so that they can create a new Cryptocurrency Investment offerring for their customers.  To start we looked at the market of crytocurrencies and identified the tradable universe.  since there are som many cryptocurrencies to choose from, we decided that we should create groups/clusters of cryptocurrencies such that customers could invest in portfolios that fit their investment needs.  We used Pricipal Component Analysis, K-means Clustering, and provided some tabular and graphical visualizations of our results.
